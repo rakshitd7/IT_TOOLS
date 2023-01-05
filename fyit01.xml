@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE address[
+	<!ELEMENT address (name,company,phone)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT company (#PCDATA)>
+	<!ELEMENT phone (#PCDATA)>
+]>
+
+<address>
+<name>Shubham Agrawal </name>
+<company>ShubhamPoint</company>
+<phone>8465936157</phone>
+</address>
